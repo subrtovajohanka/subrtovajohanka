@@ -21,12 +21,12 @@
 🔹 *Projektová a provozní podpora (externě)*  
 Sledování a řízení IT projektů, organizace schůzek a školení, komunikace s klienty, administrativa a podpora projektového týmu. Spolupráce s vývojáři, orientace v technickém prostředí, práce s GitHubem a dalšími nástroji.
 
-### Ondřej Šika
+### [Ondřej Šika](https://www.ondrej-sika.cz/)
 🔹 *Asistentská a organizační podpora (dlouhodobá spolupráce)*  
 Podpora marketingu, organizace akcí a školení, správa faktur a úkonů spojených s DPH, komunikace s partnery, péče o provozní záležitosti firmy. Tvorba propagačních materiálů, sociální sítě, CRM, administrativa.
 
 ### [Devopsa](https://devopsa.com)
-🔹 *AAdministrativní výpomoc a základní marketing (externí spolupráce)*  
+🔹 *Administrativní výpomoc a základní marketing (externí spolupráce)*  
 Zajištění smluvní a administrativní agendy, pomoc s jednoduchým marketingem (texty, kontrola podkladů, komunikace), podpora každodenního provozu a firemní organizace.
 
 ### Peter Privalinec – projekt *From the Locals*
@@ -38,5 +38,5 @@ Tvorba článků v angličtině, úprava podkladů pro blog a propagaci projektu
 ## 📬 Kontakt
 
 📧 subrtovajohanka@gmail.com
-🔗 [LinkedIn]([https://linkedin.com/in/johankasubrtova](https://www.linkedin.com/in/johanka-%C5%A1ubrtov%C3%A1-0831411b6/?originalSubdomain=cz))  
+🔗 [LinkedIn](https://www.linkedin.com/in/johanka-%C5%A1ubrtov%C3%A1-0831411b6/?originalSubdomain=cz)  
 📍 Praha, Česko  
